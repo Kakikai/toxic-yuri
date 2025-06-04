@@ -51,6 +51,10 @@ label start:
 
     b "this is crazy"
 
+    r "hey plum added some lines for me too"
+
+    r "if you are seeing this your git is working"
+
     # This ends the game.
 
     jump prologue
