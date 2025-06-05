@@ -4,8 +4,8 @@
 # name of the character.
 
 define e = Character("Eileen")
-define r = Character(_("Ruby"), color="#CB3535")
-define b = Character(_("Blake"), color="#4C5C64")
+define s = Character(_("Swirly"), color="#CB3535")
+define c = Character(_("Carmen"), color="#4C5C64")
 
 # Declare transformations
 
